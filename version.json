@@ -1,6 +1,6 @@
 {
-    "version": "1.1.10",
+    "version": "1.2.6",
     "download_url": "https://apphelixtech.sharepoint.com/:u:/r/sites/WorkForgeTesting/Shared%20Documents/Releases%20ZXP/WorkForge-Latest.zxp?csf=1&web=1&e=xzXarj",
-    "release_notes": "Update checker fix and version sync.",
+    "release_notes": "Added update checker and automated packaging.",
     "release_date": "2026-03-16"
 }
